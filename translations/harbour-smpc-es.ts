@@ -517,7 +517,7 @@
     <message>
         <location filename="../qml/pages/settings/DatabaseSettings.qml" line="237"/>
         <source>Clear blacklisted albums</source>
-        <translation>Aceptar</translation>
+        <translation>Borrar álbumes de lista negra</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/DatabaseSettings.qml" line="248"/>
@@ -784,22 +784,22 @@
     <message>
         <location filename="../qml/pages/settings/GUISettings.qml" line="195"/>
         <source>Remorse options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de remordimiento</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/GUISettings.qml" line="200"/>
         <source>Remorse time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de remordimiento</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/GUISettings.qml" line="205"/>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>segundos</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/GUISettings.qml" line="205"/>
         <source>second</source>
-        <translation type="unfinished"></translation>
+        <translation>segundo</translation>
     </message>
 </context>
 <context>
@@ -863,47 +863,47 @@
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="8"/>
         <source>Playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="32"/>
         <source>Shuffle</source>
-        <translation type="unfinished"></translation>
+        <translation>Barajar</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="33"/>
         <source>Play in random order</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduce en orden aleatorio</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="40"/>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>repetir</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="42"/>
         <source>Play in never ending loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduce en orden infinito</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="49"/>
         <source>Consume track</source>
-        <translation type="unfinished"></translation>
+        <translation>Consumir</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="51"/>
         <source>Each song played is removed from playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduce en orden devorativo</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="59"/>
         <source>Playback is stopped after current song, or song is repeated if the ‘repeat’ mode is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduce en orden retenido o repetitivo</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/PlaybackSettings.qml" line="57"/>
         <source>Single playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Individual</translation>
     </message>
 </context>
 <context>
@@ -1229,12 +1229,12 @@
     <message>
         <location filename="../qml/pages/settings/SettingsPage.qml" line="47"/>
         <source>Playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de reproducción</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/SettingsPage.qml" line="55"/>
         <source>Update server database</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar MPD</translation>
     </message>
     <message>
         <location filename="../qml/pages/settings/SettingsPage.qml" line="59"/>
